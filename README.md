@@ -73,4 +73,5 @@ HTML5+CSS3+JavaScript로 배우는 웹프로그래밍 기초(책)
 
 # 스크린샷
 
-![세부페이지 1](./images/detail1.jpg)
+![세부페이지 1](./images/detail1.png)
+![세부페이지 2](./images/detail2.png)
