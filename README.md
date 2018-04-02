@@ -69,3 +69,8 @@ https://ofcourse.kr/css-course/background-%EC%86%8D%EC%84%B : div에 배경이�
 <p>-지원<br>
 HTML5+CSS3+JavaScript로 배우는 웹프로그래밍 기초(책)
 </p>
+
+
+# 스크린샷
+
+![세부페이지 1](./images/detail1.jpg)
