@@ -20,6 +20,7 @@
         background-attachment: fixed;
         background-position: center top;
         위와 같은 기능을 추가하여 해결
+        
  2) 4개의 카드를 나란히 두고, 배너 크기에 맞추고 싶었으나 쉽지 않았다.
 
 -> 이를 해결하고자
